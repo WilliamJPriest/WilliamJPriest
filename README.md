@@ -1,4 +1,3 @@
-### Oh, Hello there
+# Oh, Hello there
 
-<!--
-This is my Web portofoilo, expect constant updates
+My name is William J.
