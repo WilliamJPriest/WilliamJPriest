@@ -1,4 +1,4 @@
 # Oh, Hello there
 
-## My name is William J, Frontend Developer, Pixel Arist, and every day Electric Enginneering Enthusiasts
+## My name is William J, Fullstack Developer, Pixel Artist, and every day Electric Engineering Enthusiast
 - Currently working on updating my GitHub profile.
