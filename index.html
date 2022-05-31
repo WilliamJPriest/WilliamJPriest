@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>William J. Portfolio</title>
     <link rel="stylesheet" href="main.css">
-    <script src="https://use.fontawesome.com/b042b9f677.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" rel="stylesheet"></link> 
 </head>
 <body>
 <!-- topbar menu is only seen by mobile users and replaces the sidebar for a more mobile friendly experience -->
@@ -38,28 +38,28 @@
                         <span>liuliu6wp@gmail.com</span>
                     </div>    
                 </div>
-                <div class="navbar"">
+                <div class="navbar">
                     <div class="item-links">
-                        <a href="#home" data-tooltip="Home"class="icon tooltip"  id="tooltip"><i class="fa fa-home" aria-hidden="true"> </i></a> 
+                        <a href="#home" data-tooltip="Home"class="icon tooltip"  id="tooltip"><i class="fa fa-home" aria-hidden="false"> </i></a> 
                         <a href="#home" class="item-text"href="">Home</a>
                     </div>
                     <div class="item-links">
-                        <a href="https://docs.google.com/document/d/10fy5vvHDdcY_LrJM1YTN4-02eBQXymXd10CdqtSQXFg/edit?usp=sharing" data-tooltip="Resume"class="icon tooltip" id="tooltip"><i  class="fa fa-file" aria-hidden="true"></i></a>   
+                        <a href="https://docs.google.com/document/d/10fy5vvHDdcY_LrJM1YTN4-02eBQXymXd10CdqtSQXFg/edit?usp=sharing" data-tooltip="Resume"class="icon tooltip" id="tooltip"><i  class="fa fa-file" aria-hidden="false"></i></a>   
                         <a href="https://docs.google.com/document/d/10fy5vvHDdcY_LrJM1YTN4-02eBQXymXd10CdqtSQXFg/edit?usp=sharing" class="item-text"href="">Resume</a>
                      </div>
                      <div class="item-links">
-                        <a href="#projects" data-tooltip="Projects"class="icon tooltip" id="tooltip"><i class="fa fa-laptop" aria-hidden="true"></i></a> 
+                        <a href="#projects" data-tooltip="Projects"class="icon tooltip" id="tooltip"><i class="fa fa-laptop" aria-hidden="false"></i></a> 
                         <a href="#projects" class="item-text"href="">Projects</a>
                      </div> 
                      <div class="item-links">
-                           <a href="#contact" data-tooltip="Contact"class="icon tooltip" id="tooltip"><i class="fa fa-phone" aria-hidden="true"></i></a> 
+                           <a href="#contact" data-tooltip="Contact"class="icon tooltip" id="tooltip"><i class="fa fa-phone" aria-hidden="false"></i></a> 
                            <a href="#contact" class="item-text"href="">Contact</a>
                      </div>            
                 </div>
                 <div class="social-links">
-                    <a href="https://www.instagram.com/williamj.priest/"><i class="fa fa-instagram" aria-hidden="false"></i></a>
-                    <a href="https://github.com/WilliamJPriest"><i class="fa fa-github" aria-hidden="false"></i></a>
-                    <a href="https://www.linkedin.com/in/william-j-priest-5aa7341a2/"><i class="fa fa-linkedin" aria-hidden="false"></i></a>
+                    <a href="https://www.instagram.com/williamj.priest/"><i class="fa-brands fa-instagram" aria-hidden="false"></i></a>
+                    <a href="https://github.com/WilliamJPriest"><i class="fa-brands  fa-github" aria-hidden="false"></i></a>
+                    <a href="https://www.linkedin.com/in/william-j-priest-5aa7341a2/"><i class="fa-brands  fa-linkedin" aria-hidden="false"></i></a>
                 </div>
             </div>  
         </div>       
@@ -73,89 +73,51 @@
                 <div class="subtext">
                     <p>Oh, Hello there.</p>
                     <div class="main-btns">
-                        <button><a href="https://docs.google.com/document/d/10fy5vvHDdcY_LrJM1YTN4-02eBQXymXd10CdqtSQXFg/edit?usp=sharing">Resume</a></button>
+                        <button><a href="https://docs.google.com/document/d/10mR26BGYsJC-E65EJ5AymlpAIKNfFb5ODNAR_8Xdu0I/edit?usp=sharing">Resume</a></button>
                         <button><a href="https://github.com/WilliamJPriest">GitHub</a></button>
                     </div>
                 </div>
             </div>
         </div>
         <div class="project-container" id="projects">
-            <h2>Vanilla JS Projects</h2>
+            <h2>Projects</h2>
             <div class="project-item">
-                <img src="colorFlipper.PNG" alt="porfoilo image">
+               <a href="https://williamjpriest.github.io/Circuit-Store/" > <img src="The-Circuit-Store.PNG" alt="porfoilo image"></a>
                 <div class="project-desc">
-                    <h3>Color Flipper</h3>
-                    <p>This is a color flipper I built that generates a random color code so you can use for any website, painting a house,etc.   </p>
-                    <a  class="mp-icon code-icon1" href="https://williamjpriest.github.io/Color-Flipper-JS"><i class="fa fa-code" aria-hidden="true"></i> </a>
-                    <a class="mp-icon gh-icon1" href="https://github.com/WilliamJPriest/Color-Flipper-JS"><i class="fa fa-github" aria-hidden="true"></i></a>
-                </div>
+                <h3>The Circuit Store</h3>
+                    <p>Your one-stop shop for all your eletrical enginnering needs, no login required just add to cart.
+                        Also, no need worry tour cart is persisted to local storage.</p>
+                    <a  class="mp-icon gh-icon1" href="https://williamjpriest.github.io/Circuit-Store"><i class="fa-brands fa-github" aria-hidden="false"></i> </a>
+                    <a  class="mp-icon code-icon1" href="https://github.com/WilliamJPriest/Circuit-Store"><i class="fa fa-code" aria-hidden="false"></i> </a>
+                 </div> 
+            </div>     
             </div>
             <div class="project-item">
                 <div class="project-desc">
                     <h3>Summer's Cinema</h3>
                     <p>A database app with all the most popular movies and Tv shows. Read descriptions, check ratings , and use the search bar to find excalty what you're looking for. This web application uses the Movie DB Api and I have some things I would like to add in the future </p>
-                    <a  class="mp-icon code-icon2" href="https://williamjpriest.github.io/Summer-s-Cinema"><i class="fa fa-code" aria-hidden="true"></i> </a>
-                    <a  class="mp-icon gh-icon2" href="https://github.com/WilliamJPriest/Summer-s-Cinema"><i class="fa fa-github" aria-hidden="true"></i></a>
+                    <a  class="mp-icon code-icon2" href="https://williamjpriest.github.io/Summer-s-Cinema"><i class="fa fa-code" aria-hidden="false"></i> </a>
+                    <a  class="mp-icon gh-icon2" href="https://github.com/WilliamJPriest/Summer-s-Cinema"><i class="fa-brands  fa-github" aria-hidden="false"></i></a>
                 </div>   
-                <img src="Summer's Cinema.PNG" alt="porfoilo image">
+               <a href="https://williamjpriest.github.io/Summer-s-Cinema" ><img src="Summer's Cinema.PNG" alt="porfoilo image"></a> 
             </div>
             <div class="project-item">
-                <img src="Wake Ready.PNG" alt="porfoilo image">
+               <a href="https://williamjpriest.github.io/Wake-Ready/">  <img src="Wake Ready.PNG" alt="porfoilo image"></a>
                 <div class="project-desc">
                     <h3>Wake Ready</h3> 
                     <p>An Alarmy Style web alarm app, that use a Quote API to randomly select an inspiration quote to get you going in the morning and If you have trouble getting up in the morning you can set the challenge mode on to make it extra hard to sleep through your alarm.</p>
-                    <a class="mp-icon gh-icon3" href="https://williamjpriest.github.io/Wake-Ready/"><i class="fa fa-github" aria-hidden="true"></i></a>
-                    <a  class="mp-icon code-icon3" href="https://github.com/WilliamJPriest/Wake-Ready"><i class="fa fa-code" aria-hidden="true"></i> </a>
+                    <a class="mp-icon gh-icon3" href="https://williamjpriest.github.io/Wake-Ready/"><i class="fa-brands  fa-github" aria-hidden="false"></i></a>
+                    <a  class="mp-icon code-icon3" href="https://github.com/WilliamJPriest/Wake-Ready"><i class="fa fa-code" aria-hidden="false"></i> </a>
                 </div>
             </div>
             <div class="project-item">
                 <div class="project-desc">
                     <h3>One-Shot Asteroids</h3>
                     <p>A game I made without using the Canvas Api where you can only fire one shot at a time so the game is just as much getting a high score as staying manuverable but with Scalable difficultly and random asteroid spawns it won't be easy </p>
-                    <a  class="mp-icon gh-icon4" href="https://williamjpriest.github.io/One-Shot-Asteroids"><i class="fa fa-github" aria-hidden="false"></i> </a>
+                    <a  class="mp-icon gh-icon4" href="https://williamjpriest.github.io/One-Shot-Asteroids"><i class="fa-brands fa-github" aria-hidden="false"></i> </a>
                     <a  class="mp-icon code-icon4" href="https://github.com/WilliamJPriest/One-Shot-Asteroids"><i class="fa fa-code" aria-hidden="false"></i> </a>
-                    
                 </div>
-                <img src="One-Shot.PNG" alt="porfoilo image">
-            </div>
-        </div>
-        <div class="project-container">
-            <h2>React JS Projects</h2>
-            <div class="project-item">
-                <img src="Books N Books.PNG"" alt="porfoilo image">
-                <div class="project-desc">
-                    <h3>Audio-Book Library Database</h3>
-                    <p>An Audio Book Library Database bulit with The Google Books API, search through hundreds of selections and find any information on any book you wish.</p>
-                    <a  class="mp-icon gh-icon5" href="https://williamjpriest.github.io/Book-Library-Database"><i class="fa fa-github" aria-hidden="true"></i> </a>
-                    <a  class="mp-icon code-icon5" href="https://github.com/WilliamJPriest/Book-Library-Database"><i class="fa fa-code" aria-hidden="true"></i> </a>
-                </div>
-            </div>
-            <div class="project-item">
-                <div class="project-desc">
-                    <h3>The Circuit Store</h3>
-                    <p>Your one-stop shop for all your eletrical enginnering needs, no login required just add to cart.
-
-                        Also, no need worry tour cart is persisted to local storage.</p>
-                    <a  class="mp-icon gh-icon6" href="https://williamjpriest.github.io/Circuit-Store"><i class="fa fa-github" aria-hidden="true"></i> </a>
-                    <a  class="mp-icon code-icon6" href="https://github.com/WilliamJPriest/Circuit-Store"><i class="fa fa-code" aria-hidden="true"></i> </a>
-                </div>   
-                <img src="placeholder.png" alt="porfoilo image">
-            </div>
-            <div class="project-item">
-                <img src="placeholder.png" alt="porfoilo image">
-                <div class="project-desc">
-                    <h3>Coming Soon</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius fugit voluptatum, provident odio in voluptate. Ab animi quam voluptatibus eum.</p>
-                    <a class="gh-icon7" href=""><i class="fa fa-github" aria-hidden="true"></i></a>
-                </div>
-            </div>
-            <div class="project-item">
-                <div class="project-desc">
-                    <h3>Coming Soon</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius fugit voluptatum, provident odio in voluptate. Ab animi quam voluptatibus eum.</p>
-                    <a class="gh-icon8"href=""><i class="fa fa-github" aria-hidden="true"></i></a>
-                </div>
-                <img src="placeholder.png" alt="porfoilo image">
+               <a href="https://williamjpriest.github.io/One-Shot-Asteroids"> <img src="One-Shot.PNG" alt="porfoilo image"></a>
             </div>
         </div>
         <div class="contact-me-section" id="contact">
@@ -166,9 +128,9 @@
             </div>
             <div class="contact-me-bottom-container">
                 <div class="contact-me-icons">
-                    <a class="contact-icon"href="https://github.com/WilliamJPriest"><i class="fa fa-github" aria-hidden="true"></i></a>
-                    <a class="contact-icon"href="https://www.instagram.com/williamj.priest/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a class="contact-icon"href="https://www.linkedin.com/in/william-j-priest-5aa7341a2"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    <a class="contact-icon"href="https://github.com/WilliamJPriest"><i class="fa-brands  fa-github" aria-hidden="false"></i></a>
+                    <a class="contact-icon"href="https://www.instagram.com/williamj.priest/"><i class="fa-brands  fa-instagram" aria-hidden="false"></i></a>
+                    <a class="contact-icon"href="https://www.linkedin.com/in/william-j-priest-5aa7341a2"><i class="fa-brands  fa-linkedin" aria-hidden="false"></i></a>
                 </div>
             </div>
         </div>

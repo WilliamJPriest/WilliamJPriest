@@ -295,14 +295,14 @@ a{
     margin-left:1rem;
 }
 
-.gh-icon1, .gh-icon3, .gh-icon5, .gh-icon7{
+.gh-icon1, .gh-icon3 {
     position: absolute;
-    left: -6.2rem;;
+    left: -6.4rem;;
     top: 55%;
     font-size: 2rem;
 
 }
-.gh-icon2, .gh-icon4, .gh-icon6, .gh-icon8{
+.gh-icon2, .gh-icon4{
     position: absolute;
     left:clamp(13rem, 47vw, 44rem);
     top: 55%;
@@ -311,7 +311,7 @@ a{
 
 
 
-.code-icon1,.code-icon3{
+.code-icon1,.code-icon3,.code-icon5,.code-icon7{
     position: absolute;
     left: -4.2rem;;
     top: 55%;
@@ -319,7 +319,7 @@ a{
 
 }
 
-.code-icon2, .code-icon4{
+.code-icon2, .code-icon4,.code-icon6, .code-icon8{
     position: absolute;
     left:clamp(16rem, 49.5vw, 60rem);
     top: 55%;
