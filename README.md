@@ -3,3 +3,7 @@
 ## My name is William J, Fullstack Developer, Pixel Artist, and every day Electric Engineering Enthusiast
 - Currently working on my Yueyuan Tech FullStack App
 - 2022 Goals: Compete in a Hackathon/GameJam and contribute to more Open Source Projects
+
+Technologies:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
