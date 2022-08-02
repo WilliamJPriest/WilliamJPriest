@@ -88,11 +88,14 @@ a{
     display: flex;
     flex-direction: column;
     padding-top: 10rem;
-    padding-bottom: 6rem;
+    padding-bottom: 2rem;
 }
 
 .icon{
     margin-left: 10px;
+}
+.item-links:nth-child(2){
+    margin-left: 0.3rem;
 }
 
 .sidebar-container.seen .icon{
@@ -103,6 +106,10 @@ a{
     line-height: 50px;
     font-size: 1.5rem;
     white-space: nowrap;
+}
+
+.sidebar-container.seen .item-links{
+    margin-left: auto;
 }
 
 
@@ -127,12 +134,15 @@ a{
     display: none;
 }
 .social-links{
-    margin-left: 15px;
+    margin-left: 16px;
     transition: 0.5s ease-in-out;
+    /* display: flex;
+    flex-direction: column; */
+
 }
 
 .sidebar-container.seen .social-links{
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .social-links:hover{
@@ -396,7 +406,7 @@ a{
 
 }
 
-@media screen and (max-width:1300px){
+@media screen and (max-width:1000px){
     .sidebar-container{
         display: none;
     }
