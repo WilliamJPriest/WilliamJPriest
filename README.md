@@ -1,8 +1,8 @@
 # Oh, Hello There
 
 - 🐠 FullStack Developer who loves a quick VS Code shortcut.
-- 🔨 Currently working on my Yueyuan Tech FullStack App
-- 🎉 2022 Goals: Compete in a Hackathon/GameJam and contribute to more Open Source Projects
+- 🔨 Currently working on MotherBase(PC Game) and Studio Website
+- 🎉 2023 Goals: Expand my horizons and find gainful employment 
 - 🙆 Contact me @ liuliu6wp@gmail.com or check my socials below 👇
 
 
@@ -17,6 +17,7 @@
 ![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%234ea94b.svg?style=for-the-badge&logo=pythonb&logoColor=white)
 
 **Connect with Me:**
 
