@@ -17,7 +17,7 @@
 ![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python]([https://img.shields.io/badge/Python-%234ea94b.svg?style=for-the-badge&logo=pythonb&logoColor=white](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))
+![Python](https://img.shields.io/badge/Python-%234ea94b.svg?style=for-the-badge&logo=pythonb&logoColor=white)
 
 **Connect with Me:**
 
