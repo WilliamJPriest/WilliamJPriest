@@ -1,8 +1,8 @@
 # Oh, Hello There
 
-- 🐠 FullStack Developer who loves a quick VS Code shortcut.
-- 🔨 Currently working on MotherBase(PC Game) and Studio Website
-- 🎉 2023 Goals: Expand my horizons and find gainful employment 
+- 🐠 FullStack Developer 
+- 🔨 Currently Learning Golang
+- 🎉 2023 Goals: Release the MVP for Saas
 - 🙆 Contact me @ liuliu6wp@gmail.com or check my socials below 👇
 
 
@@ -16,11 +16,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%230072C6.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Aws](https://img.shields.io/badge/aws-%230072C6.svg?style=for-the-badge&logo=aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Connect with Me:**
 
