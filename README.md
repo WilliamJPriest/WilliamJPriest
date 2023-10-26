@@ -27,6 +27,7 @@
 **Connect with Me:**
 
 <a href="https://www.linkedin.com/in/williamjpriest/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.youtube.com/@ThatWeirdKiidOnYT/streams?sub_confirmation=1">![Youtube](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 
 
