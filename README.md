@@ -2,7 +2,7 @@
 
 - 🐠 FullStack Developer 
 - 🔨 Currently Learning Golang
-- 🎉 2023 Goals: Release Pro Go Before Years End
+- 🎉 2023 Goals: Release Pro Go before years end
 - 🙆 Contact me @ liuliu6wp@gmail.com or check my socials below 👇
 
 
