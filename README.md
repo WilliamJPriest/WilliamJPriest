@@ -1,7 +1,7 @@
 # Oh, Hello There
 
 - 🐠 FullStack Developer 
-- 🔨 Currently Learning Golang
+- 🔨 Currently Building Awesome Projects
 - 🎉 2023 Goals: Release Pro Go
 - 🙆 Contact me at liuliu6wp@gmail.com or check my socials below 👇
 
