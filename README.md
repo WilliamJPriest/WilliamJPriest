@@ -2,7 +2,7 @@
 
 - 🐠 FullStack Developer 
 - 🔨 Currently Building Awesome Projects
-- 🎉 2023 Goals: Finish building my GB Game
+- 🎉 2024 Goals: Finish building my GB Game
 - 🙆 Contact me at liuliu6wp@gmail.com or check my socials below 👇
 
 
